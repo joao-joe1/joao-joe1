@@ -6,7 +6,6 @@ Olá, meu nome é **João Vitor Tomaz dos Santos**, tenho 17 anos e moro em **Sa
  - 💌 Contatos:
 
    - Twitter: https://twitter.com/Joe07721953
-   - Email: joaokingteam@hotmail.com
    
 <div align="center">
   <a href="https://github.com/joao-joe1">
