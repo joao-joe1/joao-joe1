@@ -5,7 +5,8 @@ Olá, meu nome é **João Vitor Tomaz dos Santos**, tenho 17 anos e moro em **Sa
  - 🌳 Atualmente estou estudando: Python, HTML, CSS;
  - 💌 Contatos:
 
-   - Twitter: https://twitter.com/Joe07721953
+   - Twitter: **https://twitter.com/Joe07721953**
+   - Email: **joaokingteam@gmail.com**
    
 <div align="center">
   <a href="https://github.com/joao-joe1">
