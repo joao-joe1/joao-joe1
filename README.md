@@ -1,8 +1,8 @@
 # Um pouco sobre mim.
 Olá, meu nome é **João Vitor Tomaz dos Santos**, tenho 17 anos e moro em **Santana do Paraíso, Minas Gerais, Brasil**. Comecei a programar em **2018** por interesses e decompilando códigos. Pretendo me aprofundar muito nessa área e começar a trabalhar na mesma.
 
- - 🖥️  Linguagens de programação: C#, e JavaScript;
- - 🌳 Atualmente estou estudando: Python, HTML, CSS;
+ - 🖥️  Linguagens de programação: C#;
+ - 🌳 Atualmente estou estudando: JavaScript, Python, HTML e  CSS;
  - 💌 Contatos:
 
    - Discord: **$joe#1479**
