@@ -1,8 +1,10 @@
 # Um pouco sobre mim.
 Olá, meu nome é **João Vitor**, tenho 17 anos e moro em **Minas Gerais**. Comecei a programar em **2018** por interesses e decompilando códigos. Pretendo me aprofundar muito nessa área e começar a trabalhar na mesma.
 
- - 🖥️  Linguagens de programação: C#;
- - 🌳 Atualmente estou estudando: JavaScript, Python, HTML e  CSS;
+**Tecnologias**
+ - 🖥️  Experiencia: JavaScript, HTML e CSS;
+ - 🌳 Atualmente estou estudando: C#, React e TypeScript;
+ - 👀 Tenho interesse: Python, C++ e Ruby;
  - 💌 Contatos:
 
    - Discord: **$joe#1479**
@@ -20,6 +22,8 @@ Olá, meu nome é **João Vitor**, tenho 17 anos e moro em **Minas Gerais**. Com
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
 ##
 
