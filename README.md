@@ -2,7 +2,7 @@
 Olá, meu nome é **João Vitor**, tenho 17 anos e moro em **Minas Gerais**. Comecei a programar em **2018** por interesses e decompilando códigos. Pretendo me aprofundar muito nessa área e começar a trabalhar na mesma.
 
 **Tecnologias**
- - 🖥️  Experiencia: JavaScript, HTML e CSS;
+ - 🖥️ Experiência: JavaScript, HTML e CSS;
  - 🌳 Atualmente estou estudando: C#, React e TypeScript;
  - 👀 Tenho interesse: Python, C++ e Ruby;
  - 💌 Contatos:
