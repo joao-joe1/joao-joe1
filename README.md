@@ -1,5 +1,5 @@
 # Um pouco sobre mim.
-Olá, meu nome é **João Vitor**, tenho 17 anos e moro em **Minas Gerais**. Comecei a programar em **2018** por interesses e decompilando códigos. Pretendo me aprofundar muito nessa área e começar a trabalhar na mesma.
+Olá, meu nome é **João Vitor**, tenho 18 anos e moro em **Minas Gerais**. Comecei a programar em **2018** por interesses e decompilando códigos. Pretendo me aprofundar muito nessa área e começar a trabalhar na mesma.
 
 **Tecnologias:**
  - 🖥️ Experiência: JavaScript, HTML e CSS;
