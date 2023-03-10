@@ -3,8 +3,8 @@ Olá, meu nome é **João Vitor**, tenho 18 anos e moro em **Minas Gerais**. Com
 
 **Tecnologias:**
  - 🖥️ Experiência: JavaScript, C#, HTML e CSS;
- - 🌳 Atualmente estou estudando: React;
- - 👀 Tenho interesse: TypeScript e C++;
+ - 🌳 Atualmente estou estudando: React e TypeScript;
+ - 👀 Tenho interesse: C++;
  <br>
  <strong>Contatos:</strong>
 
