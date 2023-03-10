@@ -10,7 +10,6 @@ Olá, meu nome é **João Vitor**, tenho 18 anos e moro em **Minas Gerais**. Com
 
    - Discord: **$joe#1479**
    - Email: **contatos.joaotomaz@gmail.com**
-   - Twitter: **https://twitter.com/Joe07721953**
 
 <div align="center">
   <a href="https://github.com/joao-joe1">
