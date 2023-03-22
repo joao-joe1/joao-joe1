@@ -2,9 +2,7 @@
 Olá, meu nome é **João Vitor**, tenho 18 anos e moro em **Minas Gerais**. Comecei a programar em 2018 por interesse e descompilando códigos. Pretendo aprofundar-me muito nessa área e começar a trabalhar na mesma. Atualmente, sou desenvolvedor front-end com experiência em JavaScript, HTML, CSS e React. Além disso, tenho interesse em expandir meu conhecimento para o desenvolvimento mobile e aprender TypeScript.
 
 **Tecnologias:**
- - 🖥️ Experiência: JavaScript, React, HTML e CSS;
- - 🌳 Atualmente estou estudando: C# e TypeScript;
- - 👀 Tenho interesse: C++;
+ - 🖥️ Experiência: TypeScript, JavaScript, React, HTML e CSS;
  <br>
  <strong>Contatos:</strong>
 
