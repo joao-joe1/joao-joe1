@@ -24,7 +24,7 @@
   
 
 <!-- <div> 
-  <a href = "mailto:joaokingteam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatos.joaotomaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
 </div> -->
@@ -37,3 +37,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp; 
+
+### Contact:
+<a href = "mailto:contatos.joaotomaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=black" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/joão-vitor-ts"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=red&color=black" target="_blank"></a>
+<a href = "https://joao-joe1.github.io/Portf-lio/"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" target="_blank"></a>
+<a href = "https://twitter.com/Joe07721953"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=red&color=black" target="_blank"></a>
