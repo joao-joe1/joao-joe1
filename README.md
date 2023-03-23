@@ -1,14 +1,19 @@
-# Um pouco sobre mim.
-🎉 Olá, meu nome é **João Vitor**, tenho 18 anos e moro em **Minas Gerais**. Comecei a programar em 2018 por interesse e descompilando códigos. Pretendo aprofundar-me muito nessa área e começar a trabalhar na mesma. Atualmente, sou desenvolvedor front-end com experiência em JavaScript, HTML, CSS e React. Além disso, tenho interesse em expandir meu conhecimento para o desenvolvimento mobile e aprender TypeScript. 🎈
+<img width=100% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bcd42338-ba3f-40be-afdd-c01f2cce0496/devtrbi-b3a91943-a959-4152-94b2-455f58ba4356.png/v1/fill/w_1280,h_427,q_80,strp/samurai_header_by_shhieda_devtrbi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDI3IiwicGF0aCI6IlwvZlwvYmNkNDIzMzgtYmEzZi00MGJlLWFmZGQtYzAxZjJjY2UwNDk2XC9kZXZ0cmJpLWIzYTkxOTQzLWE5NTktNDE1Mi05NGIyLTQ1NWY1OGJhNDM1Ni5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jnXWWeRyb9MXW7yOhvDHJO1zphEzACmNlSsNvffJnFg"/>
 
-**Tecnologias:**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&duration=4500&pause=1000&color=CC2E2E&repeat=false&width=435&lines=Hello...;My+name+is+Joe!;I+am+18+years+old+and...+I+live+in+Brazil.;Be+Welcome+%3A)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joao-joe1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<!-- **Tecnologias:**
  - 🖥️ Experiência: TypeScript, JavaScript, React, HTML e CSS;
  <br>
- <strong>Contatos:</strong>
+ <strong>Contatos:</strong> -->
 
-   - Discord: **$joe#1479**
+<!--    - Discord: **$joe#1479**
    - Email: **contatos.joaotomaz@gmail.com**
-   - LinkedIn: **https://www.linkedin.com/in/jo%C3%A3o-vitor-ts/**
+   - LinkedIn: **https://www.linkedin.com/in/jo%C3%A3o-vitor-ts/** -->
 
 <div align="center">
   <a href="https://github.com/joao-joe1">
@@ -16,18 +21,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-joe1&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-##
+  
 
 <div> 
   <a href = "mailto:joaokingteam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/joao-joe1/joao-joe1/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joao-joe1&bg_color=0d1117&color=ff2424&line=f11e1e&point=f44e4e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp; 
