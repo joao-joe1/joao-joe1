@@ -1,6 +1,6 @@
-<img width=100% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bcd42338-ba3f-40be-afdd-c01f2cce0496/devtrbi-b3a91943-a959-4152-94b2-455f58ba4356.png/v1/fill/w_1280,h_427,q_80,strp/samurai_header_by_shhieda_devtrbi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDI3IiwicGF0aCI6IlwvZlwvYmNkNDIzMzgtYmEzZi00MGJlLWFmZGQtYzAxZjJjY2UwNDk2XC9kZXZ0cmJpLWIzYTkxOTQzLWE5NTktNDE1Mi05NGIyLTQ1NWY1OGJhNDM1Ni5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jnXWWeRyb9MXW7yOhvDHJO1zphEzACmNlSsNvffJnFg"/>
+<img width=100% src="https://scontent.fipn5-1.fna.fbcdn.net/v/t1.6435-9/101321000_1573011119569655_7517641335914889216_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHipgGrGNjdhBBETcyhuDRmjeOvpIQI4u-N46-khAji77ho_PhwwRVrhhyjViu_tyowbYkaENqIKGLHlce2XXQ4&_nc_ohc=JlZrnOr9TKkAX-hGLo4&_nc_ht=scontent.fipn5-1.fna&oh=00_AfC2MYeyRSRd3NHlQbyIa6bB9X5ABu3XGH38WT5opSXMWg&oe=64664E77"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC3232FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO...+My+name+is+Joe!;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=HELLO...+My+name+is+Joe!;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joao-joe1&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
