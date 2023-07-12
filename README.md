@@ -1,10 +1,6 @@
-<img width=100% src="https://scontent.fipn5-1.fna.fbcdn.net/v/t1.6435-9/101321000_1573011119569655_7517641335914889216_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHipgGrGNjdhBBETcyhuDRmjeOvpIQI4u-N46-khAji77ho_PhwwRVrhhyjViu_tyowbYkaENqIKGLHlce2XXQ4&_nc_ohc=JlZrnOr9TKkAX-hGLo4&_nc_ht=scontent.fipn5-1.fna&oh=00_AfC2MYeyRSRd3NHlQbyIa6bB9X5ABu3XGH38WT5opSXMWg&oe=64664E77"/>
+<img width=100% src="https://i.pinimg.com/originals/49/83/0e/49830ee2ddd8b7e7679c686361afd4c2.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=HELLO...+My+name+is+Joe!;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joao-joe1&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <!-- **Tecnologias:**
  - 🖥️ Experiência: TypeScript, JavaScript, React, HTML e CSS;
