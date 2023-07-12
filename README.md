@@ -8,5 +8,5 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp; 
 
 ### Contatos:
-<a href = "mailto:contatos.joaotomaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue&color=0D1117" target="_blank"></a>
+<a href = "mailto:contatos.joaotomaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=&color=0D1117" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/joão-vitor-ts"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=blue&color=0D1117" target="_blank"></a>
