@@ -7,6 +7,9 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
 
+
 ### Contatos:
 <a href = "mailto:contatos.joaotomaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=&color=0D1117" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/joão-vitor-ts"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=blue&color=0D1117" target="_blank"></a>
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-joe1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
